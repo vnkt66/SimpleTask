@@ -22,8 +22,7 @@ const express = require('express'),
   });
 
   app.get('/times', (req, res) => {
-    res.sendStatus(showTimes());
-    console.log(showTimes());
+    res.send("Hello Time is" + showTimes());
   })
 
   app.get('/search', (req, res) => {
