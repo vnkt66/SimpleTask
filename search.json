@@ -1,0 +1,10 @@
+{
+"users" : [
+   { "name": "venkat", "id": 1},
+   { "name": "arif", "id": 2 },
+   { "name": "gokul", "id": 3 },
+   { "name": "raju", "id": 4},
+   { "name": "gopi", "id": 5 },
+   { "name": "chaitu", "id": 6 }
+]
+}
